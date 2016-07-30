@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/gh-pages
 				function $(selector){
 					return document.getElementById(selector);
 				};
